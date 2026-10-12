@@ -13,6 +13,7 @@ XO_Game/
 │
 ├── main.py          # Main game logic and execution loop
 └── README.md        # Project documentation
+```
 ## How to Run
 Make sure you have Python installed on your machine.
 
