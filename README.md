@@ -8,6 +8,7 @@ Clean Code Structure: Utilizes lists, functions, and proper scope management.
 ## Technologies Used
 Python 3.x
 ## Project Structure
+```text
 XO_Game/
 │
 ├── main.py          # Main game logic and execution loop
