@@ -18,12 +18,12 @@ XO_Game/
 Make sure you have Python installed on your machine.
 
 Clone this repository or download the source code:
-git clone https://github.com/joudy-shahrour/XO_Game.git
+`git clone https://github.com/joudy-shahrour/XO_Game.git`
 
 Navigate to the project directory:
-cd XO_Game
+`cd XO_Game`
 Run the game:
-python main.py
+`python main.py`
 ## What I Learned
 Building this project helped me solidify my understanding of:
 
